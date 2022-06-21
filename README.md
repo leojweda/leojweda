@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/leojweda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leojweda/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6v9TsueHwOfUzDRnw1vtpA)
-[![GitHub](https://img.shields.io/badge/GitHub-24292F.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leojweda)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LeoJweda_)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48225?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/89512/leo-jweda)
 [![Twitch](https://img.shields.io/badge/Twitch-9147FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/leojweda1)
