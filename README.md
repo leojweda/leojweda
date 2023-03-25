@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LeoJweda_)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48225?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/89512/leo-jweda)
 [![Twitch](https://img.shields.io/badge/Twitch-9147FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/leojweda1)
+
+<sub>I do not wish to receive [CEMs](https://crtc.gc.ca/eng/com500/guide.htm#:~:text=You%20may%20rely,at%20that%20address.) on emails in my commits.</sub>
